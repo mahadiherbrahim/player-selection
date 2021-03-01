@@ -1,0 +1,13 @@
+.selectedPlayerInfo{
+    width: 300px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.selectedPlayerInfo img{
+    height: 250px;
+}
+.selectedPlayerInfo .player-select{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px solid salmon;
+    border: 1px solid cadetblue
+}

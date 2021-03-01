@@ -1,0 +1,14 @@
+.team-container{
+    display: flex;
+}
+.players{
+    width: 70%;
+    margin-left: 30px;
+    border-right: 1px solid lightgray;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+}
+.selected-player{
+    padding: 20px;
+}
